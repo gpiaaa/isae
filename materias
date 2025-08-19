@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<HTML lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <TITLE> materias favoritas</TITLE>
+    </head>
+    <body> 
+        <h1> ejemplos de tablas en HTML</h1>
+        <h2> tabla simple con encabezado</h2>
+        <table border="1">
+            <tr>
+                <th> materia</th>
+                <th> profesor</th>
+                <th>duración </th>
+            </tr>
+            <tr>
+                <th> materia</th>
+                <th> profesor</th>
+                <th> duración</th>
+            </tr>
+            <tr>
+                <td> matemáticas</td>
+                <td> gonzalo aballay</td>
+                <td> anual</td>
+            </tr>
+            <tr> 
+                 <td> biologia</td>
+                <td> pimentel</td>
+                <td> semestral</td>
+            </tr>
+        </table>
+
+    </body>
+</HTML>
